@@ -129,7 +129,7 @@ const rest = new REST({ version: '10' }).setToken(TOKEN);
         .setColor('#00D4AA')
         .setThumbnail('https://cdn.discordapp.com/attachments/1395245783808348331/1400354191624372375/0d02b202baf618dc122475bf70350fd9.png') 
         .setFooter({ 
-          text: '🔥 Active Developer Badge bot | Made with ❤️ by Manish',
+          text: '🔥 Active Developer Badge bot ',
           iconURL: 'https://cdn.discordapp.com/attachments/1332936607267033138/1400353273906593844/image_8.png' 
         })
         .setTimestamp()
